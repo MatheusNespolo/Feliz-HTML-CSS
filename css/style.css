@@ -2,11 +2,11 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #4600af;
+    background-color: #6D676E;
 }
 
 header {
-    background-color: darkolivegreen;
+    background-color: #96031A;
     height: 12vh;
     border-bottom: 10px black solid;
     padding-left: 20px;
@@ -14,9 +14,9 @@ header {
 }
 
 h1 {
-    font-family: 'Press Start 2P, san-serif';
-    font-size: 50px;
-    color: darkgoldenrod;
+    font-family: 'Press Start 2P';
+    font-weight: lighter;
+    color: #FAA916;
     text-shadow: 2px 2px 1px black;
     align-self: center;
 }
@@ -38,7 +38,7 @@ img{
 a:before {
     content: "";
     display: inline-block;
-    background-color: darkgoldenrod;
+    background-color: #FAA916;
     width: 10px;
     height: 10px;
     margin-right: 10px;
@@ -58,17 +58,17 @@ li {
 a {
     font-family: 'Fira Code';
     font-size: 20px;
-    color: antiquewhite;
+    color: #FBFFFE;
     text-decoration: none;
     margin-right: 10px;
 }
 
 a:visited {
-    color: antiquewhite;
+    color: #FBFFFE;
 }
 
 a:hover {
-    color: yellowgreen;
+    color: #FAA916;
     font-weight: bold;
     text-shadow: 1px 1px 2px black;
 }
@@ -76,7 +76,7 @@ a:hover {
 #bt {
     font-family: 'Fira Code';
     font-size: 20px;
-    background-color: darkgrey;
+    background-color: #FBFFFE;
     border: 3px black solid;
     border-radius: 8%;
 }
