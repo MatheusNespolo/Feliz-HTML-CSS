@@ -86,3 +86,10 @@ a:hover {
     background-color: rgba(169, 169, 169, 0.5);
     cursor: pointer;
 }
+
+#banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3e3b3f;
+}
