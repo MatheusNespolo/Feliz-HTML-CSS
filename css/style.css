@@ -21,6 +21,10 @@ h1 {
     align-self: center;
 }
 
+h2 {
+    color: #FAA916;
+}
+
 section {
     display: flex;
     justify-content: space-between;
@@ -76,7 +80,7 @@ a:hover {
 #bt {
     font-family: 'Fira Code';
     font-size: 20px;
-    background-color: #FBFFFE;
+    background-color: #FAA916;
     border: 3px black solid;
     border-radius: 8%;
 }
@@ -88,8 +92,12 @@ a:hover {
 }
 
 #banner {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    font-family: 'Press Start 2P';
+    margin-top: 85px;
+    margin-left: 85px;
+    padding: 50px;
+    color: white;
     background-color: #3e3b3f;
+    box-shadow: 10px 10px black;
+    text-shadow: 2px 2px 1px black;
 }
