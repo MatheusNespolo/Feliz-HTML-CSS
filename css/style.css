@@ -13,16 +13,9 @@ header {
     padding-right: 20px;
 }
 
-h1 {
-    font-family: 'Press Start 2P';
-    font-weight: lighter;
-    color: #FAA916;
-    text-shadow: 2px 2px 1px black;
-    align-self: center;
-}
-
 h2 {
     color: #FAA916;
+    text-shadow: 4px 4px 0 black;
 }
 
 section {
@@ -116,7 +109,7 @@ a:hover {
     color: white;
     background-color: #3e3b3f;
     box-shadow: 10px 10px black;
-    text-shadow: 2px 2px 1px black;
+    text-shadow: 2px 2px 0 black;
 }
 
 #botoes {
