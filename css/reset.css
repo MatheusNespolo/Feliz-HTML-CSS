@@ -1,5 +1,13 @@
+body {
+    font-family: 'Fira Code';
+}
+
 body, h1, h2, h3, p {
     margin: 0;
     padding: 0;
 }
-/* Título principal, corpo do texto e parágrafo */
+
+button {
+    border: none;
+}
+/* Botão, corpo do texto, parágrafo e título principal */
