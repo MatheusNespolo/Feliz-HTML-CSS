@@ -102,6 +102,7 @@ a:hover {
 }
 
 #banner {
+    display: inline-block;
     font-family: 'Press Start 2P';
     margin-top: 85px;
     margin-left: 65px;
@@ -109,7 +110,11 @@ a:hover {
     color: white;
     background-color: #3e3b3f;
     box-shadow: 10px 10px black;
-    text-shadow: 2px 2px 0 black;
+    text-shadow: 2px 2px black;
+}
+
+#banner h1 {
+    margin-bottom: 30px;
 }
 
 #botoes {
